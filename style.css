@@ -262,7 +262,7 @@ header .search-bar-container label:hover{
 }
 
 .home .video-container video{
-  position: absolute;
+  position: inherit;
   top:0; left: 0;
   z-index: -1;
   height: 100%;
